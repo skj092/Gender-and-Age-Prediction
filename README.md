@@ -29,6 +29,10 @@ python predict.py --image path/to/image.jpg
 ```
 2. Check the output for the prediction results.
 
+## Running Tests
+
+To run the test suite and verify the functionality of the Gender-and-Age-Prediction project, navigate to the project directory and execute `python -m unittest discover -s tests`.
+
 ## Requirements
 
 The project requires the following dependencies:
